@@ -17,3 +17,9 @@ Kegiatan magang dan praktik kerja mahasiswa Informatika UNS di RSGM Soelatsri un
 
 ---
 
+## Profile Mentor
+| No | Nama | Bidang | Github Profile|
+| -------- | ------- |------- |------- |
+| 1 | Rini Anggrainingsih, ST, MT | Dosen Pembimbing | [](https://github.com)
+
+
